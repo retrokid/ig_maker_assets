@@ -1,4 +1,5 @@
-# ig_maker_assets
+
+# license
 
 This is free and unencumbered software released into the public domain.
 
