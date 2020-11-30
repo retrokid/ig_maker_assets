@@ -1,5 +1,5 @@
 
-# license
+# License
 
 ### CC0 1.0 Universal
 
@@ -12,4 +12,4 @@
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
     HEREUNDER.
 
-[read full text](https://github.com/retrokid/ig_maker_assets/blob/master/LICENSE)
+[read the full license](https://github.com/retrokid/ig_maker_assets/blob/master/LICENSE)
