@@ -1,7 +1,7 @@
 
 # license
 
-CC0 1.0 Universal
+### CC0 1.0 Universal
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
@@ -12,3 +12,4 @@ CC0 1.0 Universal
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
     HEREUNDER.
 
+[read full text](https://github.com/retrokid/ig_maker_assets/blob/master/LICENSE)
