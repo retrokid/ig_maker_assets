@@ -1,6 +1,6 @@
 # IG MAKER FREE ASSETS PACK
 
-This pack used to come free with ig maker game engine. They killed the engine but assets are still viable for prototyping a game. 
+This pack used to come free with ig maker game engine. They killed the engine but assets are still viable for prototyping a game. You can no longer get these assets so i put them here.
 
 # Discussions
 
