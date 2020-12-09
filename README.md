@@ -1,9 +1,13 @@
+# IG MAKER FREE ASSETS PACK
+
+This pack used to come free with ig maker game engine. They killed the engine but assets are still viable for prototyping a game. 
+
 # Discussions
 
 Use [Discussions](https://github.com/retrokid/ig_maker_assets/discussions) to ask or comment.
 
 # License
 
-### CC0 1.0 Universal
+### Copyright
 
-[go to license](https://github.com/retrokid/ig_maker_assets/blob/master/LICENSE)
+IG Maker assets are for IG Maker use only. [Degica](https://us.degicashop.com)
