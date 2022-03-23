@@ -4,4 +4,4 @@ This pack used to come free with IG Maker game engine. They killed the engine bu
 
 # License
 
-IG Maker game engine is no longer exists but still there might be some copyright issues.
+there might be some copyright issues.
